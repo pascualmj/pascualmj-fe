@@ -42,7 +42,6 @@ export default defineConfig(({ mode }) => {
     },
     build: {
       outDir: 'build',
-      copyPublicDir: false,
       sourcemap: true,
       assetsInlineLimit: 0,
       modulePreload: false,
