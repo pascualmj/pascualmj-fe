@@ -14,14 +14,15 @@ export const ProfessionalExperience: React.FC = () => {
               SR Software Engineer @ SecurityScorecard
             </Text>
             <Text tag="p" color="neutral.l500">
-              Nov 2022 to present
+              Apr 2023 to present
             </Text>
           </VStack>
           <Text tag="p" color="slate.l500">
             Planned and developed high-value customer-facing features, focusing on backend and frontend
-            development using React, Node, and Typescript. Collaborated with the Growth team to conceptualize
-            and implement monetization and activation features, driving increased revenue and enhanced
-            customer retention.
+            development using React, Node, and Typescript. Built interactive data visualization tools to
+            transform security metrics into actionable insights. Collaborated with the Growth team to
+            conceptualize and implement monetization and activation features, driving increased revenue and
+            enhanced customer retention.
           </Text>
         </VStack>
         <VStack gap="xs">
@@ -30,14 +31,15 @@ export const ProfessionalExperience: React.FC = () => {
               SR Software Engineer @ Yabble
             </Text>
             <Text tag="p" color="neutral.l500">
-              Jul 2021 to Dec 2022
+              Jul 2021 to May 2023
             </Text>
           </VStack>
           <Text tag="p" color="slate.l500">
-            I played a key role in building the platform from the ground up. Leveraging React, RxJS, and
-            TypeScript, I helped develop the frontend architecture. I collaborated closely with the design
-            team to create and implement design system components, ensuring comprehensive documentation with
-            Storybook.
+            Led frontend development for AI-driven market research platform, architecting interactive data
+            visualizations and seamless async user flows. Built intuitive chat interfaces for AI agent
+            interactions and comprehensive report generation systems. Established robust component library
+            that standardized development practices and accelerated feature delivery across the engineering
+            team.
           </Text>
         </VStack>
         <VStack gap="xs">
